@@ -46,42 +46,42 @@ export const experiences = [
   {
     id: 1,
     year: "2022",
-    position: "Senior Web Developer",
-    company: "shop.com.mm"
+    position: "Moringa School",
+    company: "Software Development"
   },
   {
-    di: 2,
-    year: "2021",
-    position: "Junior Web Developer",
-    company: "shop.com.mm"
+    id: 2,
+    year: "2022",
+    position: "Coursera",
+    company: "UI/UX Design"
   },
   {
     id: 3,
-    year: "2019",
-    position: "Intern Web Dveloper",
-    company: "shop.com.mm"
+    year: "2020",
+    position: "Umma University",
+    company: "Information Technology"
   }
 ]
 export const finishes = [
   {
     id: 1,
     number: '6+',
-    itemName: "Years Of Experience"
+    itemName: "Deployments"
   },
   {
     id: 2,
-    number: "150+",
-    itemName: "Satisfied Customers"
+    number: "10+",
+    itemName: "Functional Projects"
   },
   {
     id: 3,
-    number: "669+",
-    itemName: "Designed Items"
+    number: "200+",
+    itemName: "Repositories"
   },
   {
     id: 4,
-    number: "117+",
-    itemName: "Clients Served"
+    number: "35+",
+    itemName: "Stars on GitHub"
   }
 ]
 export const workImages = [
@@ -132,7 +132,7 @@ export const contacts = [
   {
     id: 1,
     icon: <FaMapMarkerAlt />,
-    infoText: "Ngong Lane Plaza, Ngong Lane, Ngong rd, Nairobi"
+    infoText: "Ngong Lane Plaza, Ngong rd, Nairobi, Kenya and"
   },
   {
     id: 2,
