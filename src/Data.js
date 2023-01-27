@@ -89,37 +89,49 @@ export const workImages = [
     id: 1,
     img: work1,
     name: "project 1",
-    category: "web"
+    category: "web",
+    github: "https://github.com/salvatoluice/Buy-Designs",
+    live: "https://t-graphicz.vercel.app"
   },
   {
     id: 2,
     img: work2,
     name: "project 2",
-    category: "web"
+    category: "web",
+    github: "https://github.com/salvatoluice/Nairobi-Carz",
+    live: "https://nairobi-carz.vercel.app"
   },
   {
     id: 3,
     img: work3,
     name: "project 3",
-    category: "web"
+    category: "web",
+    github: "https://github.com/salvatoluice/snapcoins",
+    live: "https://snapcoins.vercel.app"
   },
   {
     id: 4,
     img: work4,
     name: "project 4",
-    category: "app"
+    category: "app",
+    github: "https://github.com/salvatoluice/fly-oceans",
+    live: "https://fly-oceans.netlify.app/"
   },
   {
     id: 5,
     img: work5,
     name: "project 5",
-    category: 'app'
+    category: 'app',
+    github: "https://github.com/salvatoluice/Nairobi-Carz",
+    live: "https://nairobi-carz.vercel.app"
   },
   {
     id: 6,
     img: work6,
     name: "project 6",
-    category: "design"
+    category: "design",
+    github: "https://github.com/salvatoluice/Nairobi-Carz",
+    live: "https://nairobi-carz.vercel.app"
   }
 ]
 
