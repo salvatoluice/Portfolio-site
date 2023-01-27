@@ -99,7 +99,7 @@ const Portfolio = () => {
         className="talk"
       >
         <div className="talk_left">
-          <h3>so let's talk about <br /> <span>your next projects</span></h3>
+          <h3>Let's talk about <br /> <span>Your Next Projects</span></h3>
         </div>
         <motion.div
           whileHover={{ scale: 1.1 }}
